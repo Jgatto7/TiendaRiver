@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background: linear-gradient(to left top,black, white);
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.navBar li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.navBar li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.navBar li a:hover {
+    color: white;
+}
+
+.navBar li:hover {
+    transform: scale(1.1);
+}
+
+.contenedorServicios {
+    text-decoration: none;
+    font-weight: 400;
+    display: flex;
+    flex-direction:column ;
+    justify-content: space-between;
+    width: 70%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 2%;
+    padding-left: 3% ;
+}
+.contenedorServicios div {
+    padding-top: 2%;
+    }
+
+.contenedorServicios div ul li {
+    text-decoration: none;
+    list-style: none;
+}
+.iconCart {
+    height: 25px;
+    width: 25px;
+}
+.logoRiver {
+    height: 30px;
+    padding-left: 10%;
+    padding-top: 2%;
+}
+
+nav {
+    width: 90vh;
+}
+body{
+    background-color: rgb(166, 24, 24);
+}
