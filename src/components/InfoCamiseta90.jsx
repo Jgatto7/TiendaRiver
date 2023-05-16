@@ -1,5 +1,5 @@
-import riverTitular90 from "../assets/img/river1996camiseaitular.webp"
-import riverSuplente90 from "../assets/img/river suplente 1996.jpg"
+import riverTitular90 from "../assets/img/RIVER PLATE 1996 1.png"
+import riverSuplente90 from "../assets/img/RIVER PLATE 1996 2.png"
 
 
 const itemsRiverPlate90 = [

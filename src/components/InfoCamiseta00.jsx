@@ -1,6 +1,6 @@
-import riverTitular00 from "../assets/img/river titular 2006.jpg"
-import riverSuplente00 from "../assets/img/river suplente 2006.jpg"
-import riverAlternativa00 from "../assets/img/river alternativa 2006.jpg"
+import riverTitular00 from "../assets/img/river 2012 titular.png"
+import riverSuplente00 from "../assets/img/river 2012 suplente.png"
+import riverAlternativa00 from "../assets/img/river 2012 alternativa.png"
 
 
 const itemsRiverPlate00 = [
